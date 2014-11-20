@@ -39,7 +39,6 @@ App.Global = (function (window, document) {
 
 	var self = {
 		'init': function () {
-			//self.initConnections();
 			self.initEventListeners();
 			//self.initMenuPulse();
 		},
