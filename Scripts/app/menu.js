@@ -37,13 +37,7 @@ App.Global = (function (window, document) {
 	var connectinArduino;
 	var stateConversion = { 0: 'connecting', 1: 'connected', 2: 'reconnecting', 4: 'disconnected' };
 
-	/*
-	function connectionStateChanged(state) {
 
-		console.log('SignalR state changed from: ' + stateConversion[state.oldState]
-     + ' to: ' + stateConversion[state.newState]);
-	}
-	*/
 
 	var self = {
 		'init': function () {
