@@ -1,0 +1,202 @@
+body { 
+	font-family:  Arial;
+}
+
+a.disabled {
+  background: url("../Images/addRemoveSpriteLarge.png") no-repeat left bottom !important;
+  color: #ccc;
+  cursor: default;
+}
+
+.admin #modal_header {
+  margin-top: 10px;
+}
+
+.admin #modal_copy li {
+  margin-left: 15px;
+}
+
+.admin #modal_responses {
+  margin-top: 15px;
+}
+
+.admin #page_overlay {
+  display: none;
+}
+
+.admin #initial_response_container {
+  display: none;
+  height: 325px;
+  margin: 175px 0 0 290px;
+}
+
+.admin .radio {
+  margin-top: 10px;
+}
+
+.admin_footer {
+  float: left;
+  font-family: "Segoe UI",Verdana,Helvetica,Sans-Serif;
+  font-size: 19px;
+  font-weight: bold;
+  height: 22px;
+  margin: 690px 0 0 310px;
+  overflow: hidden;
+  text-align: center;
+  width: 415px;
+}
+
+.recipesForm {
+  color: #fff;
+  display: none;
+  margin: 217px 0 0 314px;
+  position: absolute;
+  width: 400px;
+  z-index: 10000;
+}
+
+.button { background: #fff; border: 1px solid #969597; border-radius: 3px; color: #969597; float: left; font-family: Verdana, Helvetica, Sans-Serif; font-size: 11px; height: 22px; margin-right: 56px; padding-top: 10px; text-align: center; text-decoration: none; text-transform: uppercase; width: 64px; }
+
+.ingSlect {
+  float: left;
+  margin-top: 10px;
+  width: 220px;
+}
+
+.amountSelect {
+  float: left;
+  margin-top: 10px;
+  width: 140px;
+}
+
+.ingredientHolder li {
+  margin-top: 6px;
+  overflow: hidden;
+}
+
+.recipeName, .preferenceName {
+  font-weight: bold;
+}
+
+.recipesForm input[type="submit"], input[type="button"], .preferencesForm input[type="submit"], input[type="button"],
+.preferencesForm input[type="submit"], input[type="button"], .preferencesForm input[type="submit"], input[type="button"] {
+  background: #fff;
+  border: 1px solid #969597;
+  border-radius: 3px;
+  color: #969597;
+  font-family: Verdana, Helvetica, Sans-Serif;
+  font-size: 11px;
+  margin: 20px 60px;
+  padding-top: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 64px;
+}
+
+.recipesForm input[type="submit"]:hover, input[type="button"]:hover, .preferencesForm input[type="submit"]:hover, input[type="button"]:hover {
+  background: #c7d1d6;
+  color: #fff;
+}
+
+.recipesForm input[type="submit"] {
+  float: right;
+}
+
+.recipesForm input[type="text"], textarea {
+  width: 346px;
+}
+
+.emptyData {
+  color: #ED1693 !important;
+  font-weight: bold;
+  text-shadow: -1px 1px 0px rgba(0, 0, 0, 1);
+}
+
+a.addIngredient {
+  background: url("../Images/addRemoveSpriteLarge.png") no-repeat;
+  margin-top: 4px;
+}
+
+a.addIngredient:hover {
+  background: url("../Images/addRemoveSpriteLarge.png") no-repeat 0px -33px;
+}
+
+a.removeIngredient {
+  background: url("../Images/addRemoveSpriteLarge.png") no-repeat right top;
+  margin-top: 3px;
+}
+
+a.removeIngredient:hover {
+  background: url("../Images/addRemoveSpriteLarge.png") no-repeat -39px -33px;
+}
+
+a.addIngredient, a.removeIngredient {
+  display: block;
+  float: right;
+  height: 33px;
+  padding: 0px;
+  text-indent: -9999px;
+  width: 33px;
+}
+
+a.homeButton {
+  display: block;
+  float: right;
+}
+
+a.machineSettingsEditor {
+  background: url("../Images/black_gear.png");
+  display: block;
+  float: right;
+  height: 44px;
+  margin: 24px 29px;
+  padding: 0;
+  text-indent: -9999px;
+  width: 44px;
+}
+
+.preferencesForm {
+  color: #fff;
+  display: none;
+  margin: 234px 0 0 310px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+  z-index: 10000;
+}
+
+.preferencesForm h2 {
+  color: #FFFFFF;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.preferencesForm input[type="radio"] {
+  float: none;
+  margin: 0 0 0 10px;
+  width: 20px;
+}
+
+.preferencesForm input[type="text"], textarea {
+  float: left;
+  width: 25%;
+}
+
+.preferencesForm input[type="submit"] {
+  float: right;
+}
+
+.prefDiv {
+  margin: 10px 0 0;
+  overflow: hidden;
+}
+
+.preferenceP {
+  font-weight: bold;
+}
+
+.preferenceName {
+  float: left;
+  margin-top: 10px;
+  width: 75%;
+}

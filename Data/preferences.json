@@ -1,0 +1,8 @@
+[
+    {
+        "unitOfMeasurement": "oz",
+        "measurementIncrement": "0.5",
+        "minMeasurementPerIngredient": "0.5",
+        "maxMeasurementPerIngredient": "8"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Get it and go.",
+        "id": "recipe0",
+        "ingredients": [
+            {
+                "id": "ingredient0",
+                "amount": 7.5
+            },
+            {
+                "id": "ingredient1",
+                "amount": 7.5
+            },
+            {
+                "id": "ingredient2",
+                "amount": 7.5
+            },
+            {
+                "id": "ingredient3",
+                "amount": 0.5
+            }
+        ]
+    },
+    {
+        "name": "Slo Jam",
+        "id": "recipe1",
+        "ingredients": [
+            {
+                "id": "ingredient0",
+                "amount": 2
+            },
+            {
+                "id": "ingredient1",
+                "amount": 3.5
+            },
+            {
+                "id": "ingredient2",
+                "amount": 3
+            },
+            {
+                "id": "ingredient3",
+                "amount": 7.5
+            }
+        ]
+    },
+    {
+        "name": "Throwback",
+        "id": "recipe2",
+        "ingredients": [
+            {
+                "id": "ingredient0",
+                "amount": 1.5
+            },
+            {
+                "id": "ingredient2",
+                "amount": 0.5
+            }
+        ]
+    },
+    {
+        "name": "Taster's Jam",
+        "id": "recipe3",
+        "ingredients": [
+            {
+                "id": "ingredient3",
+                "amount": 4
+            },
+            {
+                "id": "ingredient1",
+                "amount": 7.5
+            }
+        ]
+    },
+    {
+        "name": "FuManchu",
+        "id": "recipe4",
+        "ingredients": [
+            {
+                "id": "ingredient0",
+                "amount": 1.5
+            },
+            {
+                "id": "ingredient1",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "Kelly's Magic",
+        "id": "recipe5",
+        "ingredients": [
+            {
+                "id": "ingredient1",
+                "amount": 6
+            },
+            {
+                "id": "ingredient0",
+                "amount": 0.5
+            }
+        ]
+    },
+    {
+        "name": "Light Touch",
+        "id": "recipe6",
+        "ingredients": [
+            {
+                "id": "ingredient0",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "name": "Bluegrass",
+        "id": "recipe7",
+        "ingredients": [
+            {
+                "id": "ingredient1",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "name": "Blue on Black",
+        "id": "recipe8",
+        "ingredients": [
+            {
+                "id": "ingredient2",
+                "amount": 0.5
+            },
+            {
+                "id": "ingredient1",
+                "amount": 2
+            },
+            {
+                "id": "ingredient3",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "name": "Go Blind",
+        "id": "recipe9",
+        "ingredients": [
+            {
+                "id": "ingredient3",
+                "amount": 1
+            },
+            {
+                "id": "ingredient2",
+                "amount": 8
+            }
+        ]
+    }
+]

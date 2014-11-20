@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Vodka on the Rocks",
+        "id": "recipe0",
+        "ingredients": [
+            {
+                "id": "beverage1",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "name": "Vodka Soda",
+        "id": "recipe1",
+        "ingredients": [
+            {
+                "id": "beverage1",
+                "amount": 1.5
+            },
+            {
+                "id": "beverage2",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "name": "Orange Screw",
+        "id": "recipe2",
+        "ingredients": [
+            {
+                "id": "beverage1",
+                "amount": 1.5
+            },
+            {
+                "id": "beverage3",
+                "amount": 4
+            },
+            {
+                "id": "beverage2",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "name": "Madras",
+        "id": "recipe3",
+        "ingredients": [
+            {
+                "id": "beverage1",
+                "amount": 1.5
+            },
+            {
+                "id": "beverage2",
+                "amount": 2
+            },
+            {
+                "id": "beverage3",
+                "amount": 2
+            },
+            {
+                "id": "beverage0",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "name": "Cape Codder",
+        "id": "recipe4",
+        "ingredients": [
+            {
+                "id": "beverage1",
+                "amount": 1.5
+            },
+            {
+                "id": "beverage3",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "name": "Sea Breeze",
+        "id": "recipe5",
+        "ingredients": [
+            {
+                "id": "beverage1",
+                "amount": 1.5
+            },
+            {
+                "id": "beverage3",
+                "amount": 2
+            },
+            {
+                "id": "beverage2",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "name": "Bay Breeze",
+        "id": "recipe6",
+        "ingredients": [
+            {
+                "id": "beverage1",
+                "amount": 1.5
+            },
+            {
+                "id": "beverage3",
+                "amount": 2
+            },
+            {
+                "id": "beverage0",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "name": "Greyhound",
+        "id": "recipe7",
+        "ingredients": [
+            {
+                "id": "beverage1",
+                "amount": 1.5
+            },
+            {
+                "id": "beverage3",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "name": "Hawaiian Screw",
+        "id": "recipe8",
+        "ingredients": [
+            {
+                "id": "beverage1",
+                "amount": 1.5
+            },
+            {
+                "id": "beverage0",
+                "amount": 2
+            },
+            {
+                "id": "beverage3",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "name": "Pineapple Screw",
+        "id": "recipe9",
+        "ingredients": [
+            {
+                "id": "beverage3",
+                "amount": 1.5
+            },
+            {
+                "id": "beverage3",
+                "amount": 4
+            }
+        ]
+    }
+]
