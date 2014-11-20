@@ -95,17 +95,6 @@ App.Global = (function (window, document) {
 				$(this).hide();
 				//self.hideInitialComponents();
 			});
-			//self.animateHexagon(530, 457, 120, 246, true);
-			/*$menuButton.on('click', function (e) {
-			e.preventDefault();
-
-			if (!userClickDoOnce) {
-			//console.log('click on menu -> serve');
-			userClickDoOnce = true;
-			userInteraction = true;
-			self.animateHexagon(530, 457, 120, 246, true);
-			}
-			});*/
 
 			$serveButton.on('click', function (e) {
 				e.preventDefault();
