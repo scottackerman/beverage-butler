@@ -42,7 +42,6 @@ App.Global = (function (window, document) {
       currentState = 'menu',
       currentFooterClassAttached = '';
 
-
 	var self = {
 		'init': function () {
 		  $initialResponseContainer.hide();
