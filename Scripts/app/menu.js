@@ -37,8 +37,6 @@ App.Global = (function (window, document) {
 	var connectinArduino;
 	var stateConversion = { 0: 'connecting', 1: 'connected', 2: 'reconnecting', 4: 'disconnected' };
 
-
-
 	var self = {
 		'init': function () {
 			//self.initConnections();
